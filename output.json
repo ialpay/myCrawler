@@ -1,0 +1,60 @@
+{
+    "sitemap": [
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/c19c76_376dc1d20bd348b99c4a732a1d6d7c81.png/v1/fill/w_54,h_31,al_c,usm_0.66_1.00_0.01,blur_3/c19c76_376dc1d20bd348b99c4a732a1d6d7c81.png"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_90c427cc9c3c42cd928b899c262912e6~mv2.jpg/v1/fill/w_180,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2/f788e_lightbulb-1-1160x665.jpg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_8fe213d5ecec4d868fcfa4ce9f61cf29~mv2.jpg/v1/fill/w_180,h_101,al_c,q_80,usm_0.66_1.00_0.01,blur_2/digital-transformationw-1400x788.jpg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_3cdb1c8c821d4f3d9a0a67874a3beb82~mv2.jpg/v1/fill/w_180,h_120,al_c,q_80,usm_0.66_1.00_0.01,blur_2/team_img.jpg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_37e22f87bb32469a99bf81bb6c45ea03~mv2.jpg/v1/fill/w_229,h_129,al_c,q_80,usm_0.66_1.00_0.01,blur_2/hr-transformation.jpg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_a623270784824a57a45459d8ac90f886~mv2.jpg/v1/fill/w_147,h_57,al_c,q_80,usm_0.66_1.00_0.01/32bd0f_a623270784824a57a45459d8ac90f886~mv2.jpg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_33c2aaaa278942ddbf01d1b5016ade51~mv2.jpeg/v1/fill/w_159,h_43,al_c,q_80,usm_0.66_1.00_0.01/32bd0f_33c2aaaa278942ddbf01d1b5016ade51~mv2.jpeg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_f827bee469404c1a91321c46349119a3~mv2.jpg/v1/fill/w_146,h_73,al_c,q_80,usm_0.66_1.00_0.01/32bd0f_f827bee469404c1a91321c46349119a3~mv2.jpg"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_0794241821e1425985fcdbc0b9a4be5e~mv2.png/v1/fill/w_147,h_35,al_c,usm_0.66_1.00_0.01/32bd0f_0794241821e1425985fcdbc0b9a4be5e~mv2.png"
+        },
+        {
+            "id": "image",
+            "url": "https://static.wixstatic.com/media/32bd0f_085785f32c2241aaa110677b4946ade8~mv2.png/v1/fill/w_143,h_37,al_c,usm_0.66_1.00_0.01,blur_2/Manustech%20Logo%20k%C3%BC%C3%A7%C3%BCk%20beyaz.png"
+        },
+        {
+            "id": "url",
+            "url": "https://www.manustech.co.uk"
+        },
+        {
+            "id": "url",
+            "url": "https://www.manustech.co.uk/project-1"
+        },
+        {
+            "id": "url",
+            "url": "https://www.manustech.co.uk/project-2"
+        },
+        {
+            "id": "url",
+            "url": "https://www.manustech.co.uk/project-3"
+        }
+    ]
+}
