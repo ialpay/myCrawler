@@ -8,7 +8,7 @@ Install
 
 Run
 
-- from the console, type "node server https://www.domain_name.com"
+- from the console, type "node server <DomainName>"
 - When finished check the output.json file
 
 Test
